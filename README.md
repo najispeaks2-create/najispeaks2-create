@@ -1,16 +1,17 @@
-## Hi there 👋
+# Naji Ahmed
+**Software Engineer Trainee | Python & Django**
 
-<!--
-**najispeaks2-create/najispeaks2-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer currently honing my skills in backend logic and full-stack web development. I enjoy learning how systems work under the hood and am actively working on turning ideas into functional code.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack 
+* **Backend:** Python, Django, MySQL
+* **Frontend:** JavaScript, HTML, CSS
+* **Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+* Building foundational web applications to strengthen my understanding of Django.
+* Expanding my knowledge of Python backend architecture and clean coding practices.
+* Working towards developing complete, full-stack MVPs.
+
+### 📫 Connect
+* [Email](mailto:naji2speak@gmail.com)
